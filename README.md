@@ -25,6 +25,12 @@ A simple web application to display the current time in different cities.
 
 ![World Clock Screenshot](screenshot.jpg)
 
+## Demo Video
+
+<video src="https://raw.githubusercontent.com/PYDIMARRI-HEMA-HARSHINI-23-586/World-Clock/main/Project%20Recording.mp4" width="600" controls></video>
+
+_If the video doesn’t play inline, [click here to watch it](https://raw.githubusercontent.com/PYDIMARRI-HEMA-HARSHINI-23-586/World-Clock/main/Project%20Recording.mp4)._
+
 ## Credits
 
 This project was coded with ❤️ by **Hema**.
