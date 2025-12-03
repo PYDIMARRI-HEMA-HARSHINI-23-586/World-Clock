@@ -27,9 +27,8 @@ A simple web application to display the current time in different cities.
 
 ## Demo Video
 
-<video src="https://raw.githubusercontent.com/PYDIMARRI-HEMA-HARSHINI-23-586/World-Clock/main/Project%20Recording.mp4" width="600" controls></video>
+[![Watch the video](https://img.youtube.com/vi/lGtKNyOOnU4/0.jpg)](https://youtu.be/lGtKNyOOnU4)
 
-_If the video doesn’t play inline, [click here to watch it](https://raw.githubusercontent.com/PYDIMARRI-HEMA-HARSHINI-23-586/World-Clock/main/Project%20Recording.mp4)._
 
 ## Credits
 
