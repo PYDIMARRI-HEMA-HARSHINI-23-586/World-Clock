@@ -9,23 +9,21 @@ A simple web application to display the current time in different cities.
 
 ## Features
 
-*   Displays the current time for Los Angeles and Paris by default.
-*   Select a city from the dropdown to see the current time in that city.
-*   Option to see the time in your current location.
+- Displays the current time for Los Angeles and Paris by default.
+- Select a city from the dropdown to see the current time in that city.
+- Option to see the time in your current location.
 
 ## Technologies Used
 
-*   HTML
-*   CSS
-*   JavaScript
-*   [Moment.js](https://momentjs.com/)
-*   [moment-timezone](https://momentjs.com/timezone/)
+- HTML
+- CSS
+- JavaScript
+- [Moment.js](https://momentjs.com/)
+- [moment-timezone](https://momentjs.com/timezone/)
 
 ## Screenshot
 
-![World Clock Screenshot](screenshot.png)
-
-*Note: You will need to take a screenshot of the application and replace `screenshot.png` with the actual screenshot.*
+![World Clock Screenshot](screenshot.jpg)
 
 ## Credits
 
